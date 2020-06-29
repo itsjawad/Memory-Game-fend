@@ -5,7 +5,7 @@ This is just a test / learning project for simple WP plugins.
 
 ## How to install this plugin
 1) Download the complete code.   
-2) Create a new folder "memory-match-game" in your plugins directory of the wordpress
+2) Create a new folder "memory-match-game" in your plugins directory of the wordpress. Copy the code inside it.
 3) Go to Admin > Plugins > Activate the plugin
 4) Create a new post or page (Page ideally as its not really a post). You can name the page as "Memory Game" or anything you like. 
 5) In the body of the page place this shortcode: "[adding_memory_game]".  This will add the memory game. 
