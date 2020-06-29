@@ -1,4 +1,19 @@
-# Memory Game Project
+# Memory Game / WP plugin
+
+## Creating Wordpress plugin for basic memory match game. 
+This is just a test / learning project for simple WP plugins.  
+
+## How to install this plugin
+1) Download the complete code.   
+2) Create a new folder "memory-match-game" in your plugins directory of the wordpress
+3) Go to Admin > Plugins > Activate the plugin
+4) Create a new post or page (Page ideally as its not really a post). You can name the page as "Memory Game" or anything you like. 
+5) In the body of the page place this shortcode: "[adding_memory_game]".  This will add the memory game. 
+
+## Future updates ?
+1) Future versions can include scoring, saving the score into the database and the leaderboard. 
+ 
+
 
 ## What is the Memory Game
 This is a simple game built to test a users memory. There's a deck of cards with different icons. 
