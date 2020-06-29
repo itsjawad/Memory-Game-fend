@@ -1,7 +1,7 @@
 # Memory Game / WP plugin
 
 ## Creating Wordpress plugin for basic memory match game. 
-This is just a test / learning project for simple WP plugins.  
+This is just a test / learning project for simple WP plugins.  In this plugin, we are using simple html game code (which i have forked) and will convert it to WP plugin.
 
 ## How to install this plugin
 1) Download the complete code.   
@@ -14,6 +14,7 @@ This is just a test / learning project for simple WP plugins.
 1) Future versions can include scoring, saving the score into the database and the leaderboard. 
  
 
+# Below is the original game introduction 
 
 ## What is the Memory Game
 This is a simple game built to test a users memory. There's a deck of cards with different icons. 
